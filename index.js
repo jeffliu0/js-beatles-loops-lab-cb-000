@@ -28,7 +28,7 @@ function iLoveTheBeatles(int)
   do {
     empty_array.push("I love the Beatles!")
     ++i
-  }while (i< int)
+  }while (int < 15)
 
   return empty_array
 }
